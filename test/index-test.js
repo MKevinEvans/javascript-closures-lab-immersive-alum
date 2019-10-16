@@ -1,4 +1,4 @@
-describe('closures', function() {
+çdescribe('closures', function() {
   describe('Three point turn', function () {
     it('should have a `bumpCounter()` function', () => {
       expect(bumpCounter).toBeA('function');
